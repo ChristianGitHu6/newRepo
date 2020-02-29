@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-abcds
-=======
-ddd
->>>>>>> secondBranch
